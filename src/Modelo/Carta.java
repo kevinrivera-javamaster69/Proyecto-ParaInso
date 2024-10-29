@@ -77,4 +77,9 @@ public class Carta {
     public void setPresentacion(String presentacion) {
         this.presentacion = presentacion;
     }
+    
+    public String toString(){
+        //Método prueba de GIT
+        return "Hola Mundo GIT";
+    }
 }
